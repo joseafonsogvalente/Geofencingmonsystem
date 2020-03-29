@@ -10,7 +10,7 @@ The goal of this project is to automatically reboot the routers when the vessel 
  
  - The board is powered by 5V but a 12 V voltage regulator was implemented. It can be powered by ICSP pins or by a 5V-12V transformer with a 2.1mm DC jack plug.
 
-![Image description](https://lh3.googleusercontent.com/gkULRNrXTlCRl-sECvO1PZlxQUmdB3ob-PnjRudqhanWrs0V277JFcivkpHrjQRYmABhGUYu7bqMIVsYm2HTjhYzRpC3d8_gThc_HO1WST-cO4cmCS5vIJX1exBYmYcSo32D5RCWf7cFHrf4bHrmf7STwiEQYpzOaGJB_yvDtTopTCNEQG_cHNi3EdMVoVl6Mv7OBt0SHT4ddS-0ZDlqCIP8xcZg5IYenVK1o4cGEAYFbz9RxzDLTaoC0MFnt7XSuR0-aiwCr3NJmWlQHKQoK5WikbH8x9_-g_tZwHu3ca76F-PqB3icltxIoG0kz8vwNsbJ0J071140nXfVEinwljH6549EflRAXuEMELSV2Q6WwDK5VOzOt3FzgYbLMBkirByf8Ka-C4gNTfFWgZFMk3Dxezsn6Utphrb92xkh1Mnqj9NacvAk4lvXGODnrgpwwlJG3JqdpMMB2hHZagMAPt73Xd_OLBbrGdVxpgybPNkF4fDkS1BixEH8gdVfsqAY4VdZmzyC82Rl7yX4UHTCWjbfutBKfAu14jYdrIfRK2q7eeGuIZ3HjuI-QCfl_X2AQkblP5iKkum10Uii73shnt73xIzHEKL0YAM-hVsbd0QNwE0quUicHT35uw7fVS7ZRvd21NYpiNxWleScpw3_a772FGdJXNuZkvdD2ESptI7GPV_4lmik6A=w1258-h943-no)
+![Image description](https://photos.app.goo.gl/r4j4tkDk5BxtVJvLA)
 
 **MONITORING SYSTEM**
 
