@@ -1,4 +1,6 @@
 #  Geo-Fencing and Monitoring System
+Technologies used: AVR, C, PHP, MYSQL, Python, AJAX, JSON
+
 As IT Support for Douro Azul we solve various support tickets dealing with all the IT for all the vessels across the fleet. One of the recurring problems we face is the loss of connection on the 4G routers onboard the vessels at specific points of the river due to bad network coverage. The problem is, sometimes even after the ship gets through those bad spots, the routers don't automatically reconnect to 4G.
 The goal of this project is to automatically reboot the routers when the vessel passes those specific areas on the river. 
 
